@@ -1,2 +1,2 @@
 # fundamentos-de-programacion
-Repositorio con ejemplos y ejercicios de fundamentos de programación
+Repositorio con ejemplos de fundamentos de programación
