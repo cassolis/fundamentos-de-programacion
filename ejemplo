@@ -1,0 +1,11 @@
+# Definición de variables
+nombre = "Juan"
+edad = 25
+altura = 1.75
+es_estudiante = True
+
+# Mostrar los valores y tipos de datos
+print("Nombre:", nombre, type(nombre))
+print("Edad:", edad, type(edad))
+print("Altura:", altura, type(altura))
+print("Es estudiante:", es_estudiante, type(es_estudiante))
